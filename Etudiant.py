@@ -1,5 +1,5 @@
 ####################################################################################
-###  420-2G2 - Programmation orientée objet
+###  420-2G4 - Programmation orientée objet
 ###  Travail: Exercice 1 - Interface graphique
 ###  Nom: Hasna Hocini
 ###  No étudiant: 123456

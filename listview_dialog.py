@@ -19,6 +19,7 @@ class Fenetrelistview(QtWidgets.QDialog, formulaire_dialogue_listview.Ui_Dialog)
         self.setupUi(self)
         self.setWindowTitle("Liste des étudiant.e.s")
 
+    # Gestionnaire d'événement du bouton Quitter
     @pyqtSlot()
     def on_pushButton_quitter_clicked(self):
         self.close()
